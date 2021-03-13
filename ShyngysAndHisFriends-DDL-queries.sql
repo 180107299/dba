@@ -15,3 +15,11 @@ CREATE TABLE Recipes (
     Instructions varchar(255) NOT NULL,
     Image varchar(255) NOT NULL
 );
+
+
+CREATE TABLE USERSELF{
+    Title varchar(255) not null, 
+    Favourites BIT(1),
+    Comment varchar(255)
+    
+}
