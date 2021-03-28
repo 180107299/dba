@@ -1,7 +1,7 @@
-# Ice cream recipes
+# Netflix titles
 
 Link for kaggle:
-https://www.kaggle.com/denizyigit/christmas-dinner-recipes
+https://www.kaggle.com/shivamb/netflix-shows
 
 # We choose this dataSet because:
 1. It contain good information about Netflix films
