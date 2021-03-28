@@ -4,10 +4,10 @@ Link for kaggle:
 https://www.kaggle.com/denizyigit/christmas-dinner-recipes
 
 # We choose this dataSet because:
-1. It contain good receipts for IceCream 
+1. It contain good information about Netflix films
 2. Contain more useful information than other dataSets
 3. All information need for our project ( does not have not needed information )
-4. Contains iceCream photos witch is very GoOD
+
 
 # Question withc we will cover in this project:
 1. What is the director of the TV Show or movie ?
