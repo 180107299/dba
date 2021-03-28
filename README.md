@@ -25,3 +25,6 @@ https://www.kaggle.com/shivamb/netflix-shows
 13. Which ratings is most popular ?
 14. In which year produced more films ?
 15. Average duration of movies ?
+
+
+<img width="971" alt="ShyngysAndHisFriends-ER" src="https://user-images.githubusercontent.com/55491019/112744109-d41a8c80-8fbe-11eb-8cfe-df36cf789808.png">
