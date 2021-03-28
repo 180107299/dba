@@ -1,0 +1,1 @@
+select rating, count(rating) from netflix_titles group by rating order by count(rating);
